@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">jbjava</string>
+    <string name="add_job">Add Job</string>
+    <string name="solve">Solve</string>
+    <string name="welcome">WELCOME</string>
+    <string name="profit">Profit</string>
+    <string name="deadline">Deadline</string>
+    <string name="job">JOB</string>
+    <string name="sequencing">SEQUENCING</string>
+    <string name="problem">PROBLEM</string>
+    <string name="pronoti_ma_am">Pronoti Ma\'am</string>
+</resources>
